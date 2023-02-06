@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+header > .Logo {
+	height:100px;
+}
+
+header > .search {
+	height:100px;
+}
+
+.main-menu {
+	height:40px;
+}
+
+.contents {
+	height:500px;
+}
+
+footer {
+	height:50px;
+}
